@@ -19,6 +19,13 @@
 
 ## 核心代码
 
+1.
+```
+c1.caozuo();
+        System.out.println("授课教师:"+t1.Name+"，性别："+t1.Sex);
+        System.out.println(s1.Name+"同学以上为你的选课/选课信息。");
+```
+
 ## 实验结果
 
 ![](https://github.com/INHOPEKEEP/JavaT2/blob/main/picture/1.PNG)
