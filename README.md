@@ -21,9 +21,14 @@
 
 1.
 ```
+Scanner sc =new Scanner(System.in);
+Scanner ss =new Scanner(System.in);
+```
+2.
+```
 c1.caozuo();
-        System.out.println("授课教师:"+t1.Name+"，性别："+t1.Sex);
-        System.out.println(s1.Name+"同学以上为你的选课/选课信息。");
+System.out.println("授课教师:"+t1.Name+"，性别："+t1.Sex);
+System.out.println(s1.Name+"同学以上为你的选课/选课信息。");
 ```
 
 ## 实验结果
@@ -32,3 +37,4 @@ c1.caozuo();
 ![](https://github.com/INHOPEKEEP/JavaT2/blob/main/picture/2.PNG)
 
 ## 实验总结
+通过这次实验，我学会了类与类之间的继承，基本掌握的继承的用法，像一个类只能继承一个父类，
